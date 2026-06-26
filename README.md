@@ -4,9 +4,6 @@ Predict whether a game will be a commercial **Hit** or **Flop** using only infor
 **before release** (genre, platform, publisher reputation). Supervised binary classification, framed
 along **CRISP-DM**.
 
-> **Working with an AI assistant ("vibe coding")?** Point it at this README + `Phase_A_Evidence.ipynb`
-> and `Phase_B_Pipeline.ipynb`. Everything needed to understand the project.
-
 ---
 
 ## Locked decisions (the foundation — already done, do not redo)
